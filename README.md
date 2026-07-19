@@ -8,11 +8,7 @@
 
 🔗 https://shopsphere-frontend-0zyu.onrender.com
 
----
 
-## 📸 Preview
-
-> Add screenshots of your Home, Products, Product Details, Cart, Login, and Checkout pages here.
 
 ---
 
