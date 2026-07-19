@@ -1,0 +1,125 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --fashion-black: #111111;
+    --fashion-[#ffffff]: #ffffff;
+    --fashion-blue: #9cdbf0;
+    --fashion-gray: #666666;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ffffff;
+    color: #111111;
+  }
+
+  body {
+    min-height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ffffff;
+    color: #111111;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+  }
+}
+
+/* Outlined text effect like reference 'ONLINE' */
+.text-stroke {
+  -webkit-text-stroke: 2px #111111;
+  color: transparent;
+}
+
+.text-stroke-sm {
+  -webkit-text-stroke: 1px #111111;
+  color: transparent;
+}
+
+/* Memphis striped circle background pattern */
+.bg-striped-pattern {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    #111111,
+    #111111 2px,
+    transparent 2px,
+    transparent 8px
+  );
+}
+
+/* Memphis dot matrix grid */
+.dot-matrix {
+  background-image: radial-gradient(#ffffff 2px, transparent 2px);
+  background-size: 10px 10px;
+}
+
+.dot-matrix-black {
+  background-image: radial-gradient(#111111 2px, transparent 2px);
+  background-size: 12px 12px;
+}
+
+/* Black fashion button */
+.btn-fashion-black {
+  background-color: #111111;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding: 0.85rem 2rem;
+  border: 1px solid #111111;
+  transition: all 0.25s ease-in-out;
+  border-radius: 0;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+}
+
+.btn-fashion-black:hover {
+  background-color: #ffffff;
+  color: #111111;
+  border-color: #111111;
+}
+
+.btn-fashion-outline {
+  background-color: transparent;
+  color: #111111;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding: 0.85rem 2rem;
+  border: 2px solid #111111;
+  transition: all 0.25s ease-in-out;
+  border-radius: 0;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+}
+
+.btn-fashion-outline:hover {
+  background-color: #111111;
+  color: #ffffff;
+}
+
+/* Premium Card without gradients */
+.fashion-card-exact {
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  transition: all 0.3s ease;
+}
+
+.fashion-card-exact:hover {
+  border-color: #111111;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}

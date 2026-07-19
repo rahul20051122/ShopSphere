@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Apple iPhone 17 Pro",
+    "description": "Apple flagship smartphone with A19 Pro chip and advanced camera system.",
+    "price": 129999,
+    "category": "Mobiles",
+    "brand": "Apple",
+    "stock": 15,
+    "image": "https://res.cloudinary.com/angu58oz/image/upload/v1784444694/IPhone_17_pro_max_rqdabe.jpg"
+  },
+  {
+    "name": "Apple iPhone 17",
+    "description": "Powerful iPhone with premium performance and OLED display.",
+    "price": 99999,
+    "category": "Mobiles",
+    "brand": "Apple",
+    "stock": 20,
+    "image": "https://res.cloudinary.com/angu58oz/image/upload/v1784444693/iPhone_17_Pro_a1t1mx.jpg"
+  },
+  {
+    "name": "Samsung Galaxy S26 Ultra",
+    "description": "Samsung flagship smartphone with AI camera and S-Pen.",
+    "price": 119999,
+    "category": "Mobiles",
+    "brand": "Samsung",
+    "stock": 18,
+    "image": "https://res.cloudinary.com/angu58oz/image/upload/v1784444694/Samsung_Galaxy_S26_Ultra_reveals_5_strategic____yalvqc.jpg"
+  },
+  {
+    "name": "MacBook Pro M5",
+    "description": "Apple MacBook Pro powered by the latest M5 chip.",
+    "price": 209999,
+    "category": "Laptops",
+    "brand": "Apple",
+    "stock": 10,
+    "image": "https://res.cloudinary.com/angu58oz/image/upload/v1784444693/29695678788451819_hwkiwc.jpg"
+  },
+  {
+    "name": "Sony WH-1000XM6",
+    "description": "Premium wireless noise-cancelling headphones.",
+    "price": 34999,
+    "category": "Audio",
+    "brand": "Sony",
+    "stock": 30,
+    "image": "https://res.cloudinary.com/angu58oz/image/upload/v1784444694/Sony_WH-1000XM6_uvs1sh.jpg"
+  },
+  {
+    "name": "Apple Watch Ultra 3",
+    "description": "Premium Apple smartwatch with fitness tracking.",
+    "price": 89999,
+    "category": "Accessories",
+    "brand": "Apple",
+    "stock": 25,
+    "image": "https://res.cloudinary.com/angu58oz/image/upload/v1784444694/apple_watch_ultra_3_cool_new_gadget_by_apple___travel_essentials___outdoor_travel_needs___tech_dcq9nx.jpg"
+  },
+  {
+    "name": "Premium Black T-Shirt",
+    "description": "100% cotton oversized premium black t-shirt.",
+    "price": 1499,
+    "category": "Men Fashion",
+    "brand": "H&M",
+    "stock": 60,
+    "image": "https://res.cloudinary.com/angu58oz/image/upload/v1784444695/302163456272573348_t1bqdg.jpg"
+  },
+  {
+    "name": "Premium Fashion Wear",
+    "description": "Modern casual fashion collection for everyday style.",
+    "price": 2499,
+    "category": "Women Fashion",
+    "brand": "Zara",
+    "stock": 40,
+    "image": "https://res.cloudinary.com/angu58oz/image/upload/v1784444696/Women_s_Men_s_Clothing_Shop_Online_Fashion_efwdjh.jpg"
+  },
+  {
+    "name": "Nike Air Max",
+    "description": "Comfortable premium running shoes.",
+    "price": 9999,
+    "category": "Footwear",
+    "brand": "Nike",
+    "stock": 35,
+    "image": "https://res.cloudinary.com/angu58oz/image/upload/v1784444696/Shoes_vqml58.jpg"
+  },
+  {
+    "name": "Premium Oversized Hoodie",
+    "description": "Warm oversized hoodie with premium fabric.",
+    "price": 2999,
+    "category": "Men Fashion",
+    "brand": "Zara",
+    "stock": 50,
+    "image": "https://res.cloudinary.com/angu58oz/image/upload/v1784444697/OVERSIZED_PREMIUM_HEATER_HOODIE_-_BLACK___WHITE_-_4XL_v7n6gk.jpg"
+  },
+  {
+    "name": "Leather Jacket",
+    "description": "Premium black leather jacket with modern fit.",
+    "price": 7999,
+    "category": "Men Fashion",
+    "brand": "Levi's",
+    "stock": 20,
+    "image": "https://res.cloudinary.com/angu58oz/image/upload/v1784444697/12455336467293899_q1sbct.jpg"
+  }
+]
