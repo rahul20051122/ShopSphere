@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://shopsphere-8kru.onrender.com/api",
 });
 
 // Request Interceptor: Automatically attach Authorization token if available
